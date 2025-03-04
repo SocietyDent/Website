@@ -22,17 +22,14 @@
                 </a>
             </div>
         </section>
-
         <section class="bg-white p-6 rounded shadow-md mb-8">
             <h2 class="text-2xl font-semibold mb-4">ScreenShots</h2>
             <p class="text-gray-700">Here is some screenshots of the game</p>
         </section>
-
         <section class="bg-white p-6 rounded shadow-md mb-8">
             <h2 class="text-2xl font-semibold mb-4">Portfolio</h2>
             <p class="text-gray-700">Check out some of my past projects and see the quality of work I deliver.</p>
         </section>
-
         <section class="bg-white p-6 rounded shadow-md mb-8">
             <h2 class="text-2xl font-semibold mb-4">Contact</h2>
             <p class="text-gray-700">To contact me ________</p>
